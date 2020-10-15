@@ -1,0 +1,15 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imgae.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "jimp": "^0.16.1"
+  }
+}
